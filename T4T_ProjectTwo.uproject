@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{35EDFB99-45FF-C315-74C2-ED817586923D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "T4T_ProjectTwo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
